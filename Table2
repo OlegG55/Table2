@@ -1,6 +1,6 @@
 import sqlalchemy
 
-engine = sqlalchemy.create_engine(DSN = 'postgresql://opavelo:gsxr1000@localhost:5432/postgres')
+engine = sqlalchemy.create_engine(DSN = 'postgresql://olegg55:tc2112@localhost:5432/postgres')
 engine
 
 connect = sqlalchemy.connect()
